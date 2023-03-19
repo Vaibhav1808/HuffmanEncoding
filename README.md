@@ -6,7 +6,7 @@ encoded strings. It takes your text file as input.
 # Huffman Encoding?
 Huffman encoding is a lossless data compression algorithm that assigns variable-length codes to characters in a message based on their frequency of occurrence.The basic idea behind Huffman encoding is to use shorter codes for more frequently occurring characters and longer codes for less frequently occurring characters. This can result in significant compression of the original data.
 
-#Technique
+# Technique
 In Huffman encoding, the complete set of codes can be represented as a
 binary tree, known as a Huffman tree. This Huffman tree is also a
 enoding tree i.e. a full binary tree in which each leaf is an encoded symbol
